@@ -1,0 +1,105 @@
+{
+  "nav": {
+    "home": "Home",
+    "about": "About",
+    "sermons": "Sermons",
+    "contact": "Contact"
+  },
+  "home": {
+    "welcome": "Welcome to CMCI Belgique",
+    "subtitle": "Join us in worship and discover a community of faith, love, and hope.",
+    "learnMore": "Learn More",
+    "services": {
+      "sunday": {
+        "title": "Sunday Service",
+        "description": "Join us every Sunday at 10:00 AM for worship and fellowship."
+      },
+      "bible": {
+        "title": "Bible Study",
+        "description": "Deepen your understanding of God's word every Wednesday at 7:00 PM."
+      },
+      "community": {
+        "title": "Community",
+        "description": "Be part of our growing community and participate in various activities."
+      }
+    },
+    "latestSermon": {
+      "title": "Latest Sermon",
+      "subtitle": "Walking in Faith",
+      "description": "Discover how to strengthen your faith and trust in God's plan for your life.",
+      "watchNow": "Watch Now"
+    }
+  },
+  "about": {
+    "title": "About Us",
+    "mission": {
+      "title": "Our Mission",
+      "description1": "CMCI Belgique is dedicated to spreading the message of hope, love, and salvation through Jesus Christ. We believe in building a strong community of believers who support and encourage one another in their spiritual journey.",
+      "description2": "Our church welcomes people from all walks of life, creating an inclusive environment where everyone can experience God's love and grace."
+    },
+    "values": {
+      "title": "Our Values",
+      "faith": {
+        "title": "Faith",
+        "description": "We believe in the transformative power of faith in Jesus Christ and His teachings."
+      },
+      "community": {
+        "title": "Community",
+        "description": "We foster a supportive community where members can grow together in their faith journey."
+      },
+      "service": {
+        "title": "Service",
+        "description": "We are committed to serving our community and spreading God's love through action."
+      }
+    }
+  },
+  "contact": {
+    "title": "Contact Us",
+    "info": {
+      "address": {
+        "title": "Address",
+        "line1": "123 Church Street",
+        "line2": "Brussels, Belgium"
+      },
+      "phone": {
+        "title": "Phone",
+        "number": "+32 123 456 789"
+      },
+      "email": {
+        "title": "Email",
+        "address": "info@cmcibelgique.com"
+      }
+    },
+    "form": {
+      "title": "Send us a Message",
+      "name": "Name",
+      "email": "Email",
+      "subject": "Subject",
+      "message": "Message",
+      "submit": "Send Message",
+      "placeholders": {
+        "name": "Your name",
+        "email": "Your email",
+        "subject": "Message subject",
+        "message": "Your message"
+      }
+    }
+  },
+  "sermons": {
+    "title": "Our Sermons",
+    "walkingInFaith": {
+      "title": "Walking in Faith",
+      "description": "Discover how to strengthen your faith and trust in God's plan for your life."
+    },
+    "powerOfPrayer": {
+      "title": "The Power of Prayer",
+      "description": "Learn about the transformative power of prayer in your daily life."
+    }
+  },
+  "footer": {
+    "description": "Spreading the word of God and building a community of faithful believers.",
+    "quickLinks": "Quick Links",
+    "connect": "Connect With Us",
+    "rights": "All rights reserved."
+  }
+}

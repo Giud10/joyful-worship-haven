@@ -1,0 +1,105 @@
+{
+  "nav": {
+    "home": "Home",
+    "about": "Over Ons",
+    "sermons": "Preken",
+    "contact": "Contact"
+  },
+  "home": {
+    "welcome": "Welkom bij CMCI België",
+    "subtitle": "Sluit je aan bij onze eredienst en ontdek een gemeenschap van geloof, liefde en hoop.",
+    "learnMore": "Meer Info",
+    "services": {
+      "sunday": {
+        "title": "Zondagsdienst",
+        "description": "Kom elke zondag om 10:00 uur samen voor aanbidding en gemeenschap."
+      },
+      "bible": {
+        "title": "Bijbelstudie",
+        "description": "Verdiep je begrip van Gods woord elke woensdag om 19:00 uur."
+      },
+      "community": {
+        "title": "Gemeenschap",
+        "description": "Word deel van onze groeiende gemeenschap en neem deel aan verschillende activiteiten."
+      }
+    },
+    "latestSermon": {
+      "title": "Laatste Preek",
+      "subtitle": "Wandelen in Geloof",
+      "description": "Ontdek hoe je je geloof en vertrouwen in Gods plan voor je leven kunt versterken.",
+      "watchNow": "Nu Kijken"
+    }
+  },
+  "about": {
+    "title": "Over Ons",
+    "mission": {
+      "title": "Onze Missie",
+      "description1": "CMCI België is toegewijd aan het verspreiden van de boodschap van hoop, liefde en verlossing door Jezus Christus. Wij geloven in het bouwen van een sterke gemeenschap van gelovigen die elkaar steunen en aanmoedigen in hun spirituele reis.",
+      "description2": "Onze kerk verwelkomt mensen uit alle lagen van de samenleving en creëert een inclusieve omgeving waar iedereen Gods liefde en genade kan ervaren."
+    },
+    "values": {
+      "title": "Onze Waarden",
+      "faith": {
+        "title": "Geloof",
+        "description": "Wij geloven in de transformerende kracht van geloof in Jezus Christus en Zijn leringen."
+      },
+      "community": {
+        "title": "Gemeenschap",
+        "description": "We bevorderen een ondersteunende gemeenschap waar leden samen kunnen groeien in hun geloofsreis."
+      },
+      "service": {
+        "title": "Dienst",
+        "description": "We zijn toegewijd aan het dienen van onze gemeenschap en het verspreiden van Gods liefde door actie."
+      }
+    }
+  },
+  "contact": {
+    "title": "Contact",
+    "info": {
+      "address": {
+        "title": "Adres",
+        "line1": "123 Kerkstraat",
+        "line2": "Brussel, België"
+      },
+      "phone": {
+        "title": "Telefoon",
+        "number": "+32 123 456 789"
+      },
+      "email": {
+        "title": "Email",
+        "address": "info@cmcibelgique.com"
+      }
+    },
+    "form": {
+      "title": "Stuur ons een Bericht",
+      "name": "Naam",
+      "email": "Email",
+      "subject": "Onderwerp",
+      "message": "Bericht",
+      "submit": "Verstuur Bericht",
+      "placeholders": {
+        "name": "Uw naam",
+        "email": "Uw email",
+        "subject": "Onderwerp van het bericht",
+        "message": "Uw bericht"
+      }
+    }
+  },
+  "sermons": {
+    "title": "Onze Preken",
+    "walkingInFaith": {
+      "title": "Wandelen in Geloof",
+      "description": "Ontdek hoe je je geloof en vertrouwen in Gods plan voor je leven kunt versterken."
+    },
+    "powerOfPrayer": {
+      "title": "De Kracht van Gebed",
+      "description": "Leer over de transformerende kracht van gebed in je dagelijks leven."
+    }
+  },
+  "footer": {
+    "description": "Het verspreiden van Gods woord en het bouwen van een gemeenschap van trouwe gelovigen.",
+    "quickLinks": "Snelle Links",
+    "connect": "Verbind met Ons",
+    "rights": "Alle rechten voorbehouden."
+  }
+}

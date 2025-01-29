@@ -1,11 +1,14 @@
 import { useState, useEffect } from "react";
 import { Link, useLocation } from "react-router-dom";
 import { Menu, X } from "lucide-react";
+import { useTranslation } from "react-i18next";
+import LanguageSwitcher from "./LanguageSwitcher";
 
 const Navbar = () => {
   const [isOpen, setIsOpen] = useState(false);
   const [scrolled, setScrolled] = useState(false);
   const location = useLocation();
+  const { t } = useTranslation();
 
   useEffect(() => {
     const handleScroll = () => {
@@ -18,10 +21,10 @@ const Navbar = () => {
   }, []);
 
   const navLinks = [
-    { name: "Home", path: "/" },
-    { name: "About", path: "/about" },
-    { name: "Sermons", path: "/sermons" },
-    { name: "Contact", path: "/contact" },
+    { name: t("nav.home"), path: "/" },
+    { name: t("nav.about"), path: "/about" },
+    { name: t("nav.sermons"), path: "/sermons" },
+    { name: t("nav.contact"), path: "/contact" },
   ];
 
   return (
@@ -48,10 +51,16 @@ const Navbar = () => {
                 {link.name}
               </Link>
             ))}
+            <div className={scrolled ? "text-gray-600" : "text-white"}>
+              <LanguageSwitcher />
+            </div>
           </div>
 
           {/* Mobile Navigation Button */}
-          <div className="md:hidden">
+          <div className="md:hidden flex items-center space-x-4">
+            <div className={scrolled ? "text-gray-600" : "text-white"}>
+              <LanguageSwitcher />
+            </div>
             <button
               onClick={() => setIsOpen(!isOpen)}
               className={`hover:text-primary ${scrolled ? "text-gray-600" : "text-white"}`}

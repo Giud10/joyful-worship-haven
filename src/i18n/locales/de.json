@@ -1,0 +1,105 @@
+{
+  "nav": {
+    "home": "Startseite",
+    "about": "Über Uns",
+    "sermons": "Predigten",
+    "contact": "Kontakt"
+  },
+  "home": {
+    "welcome": "Willkommen bei CMCI Belgien",
+    "subtitle": "Schließen Sie sich uns im Gottesdienst an und entdecken Sie eine Gemeinschaft des Glaubens, der Liebe und der Hoffnung.",
+    "learnMore": "Mehr Erfahren",
+    "services": {
+      "sunday": {
+        "title": "Sonntagsgottesdienst",
+        "description": "Jeden Sonntag um 10:00 Uhr für Gottesdienst und Gemeinschaft."
+      },
+      "bible": {
+        "title": "Bibelstudium",
+        "description": "Vertiefen Sie Ihr Verständnis von Gottes Wort jeden Mittwoch um 19:00 Uhr."
+      },
+      "community": {
+        "title": "Gemeinschaft",
+        "description": "Werden Sie Teil unserer wachsenden Gemeinschaft und nehmen Sie an verschiedenen Aktivitäten teil."
+      }
+    },
+    "latestSermon": {
+      "title": "Neueste Predigt",
+      "subtitle": "Im Glauben wandeln",
+      "description": "Entdecken Sie, wie Sie Ihren Glauben und Ihr Vertrauen in Gottes Plan für Ihr Leben stärken können.",
+      "watchNow": "Jetzt Ansehen"
+    }
+  },
+  "about": {
+    "title": "Über Uns",
+    "mission": {
+      "title": "Unsere Mission",
+      "description1": "CMCI Belgien widmet sich der Verbreitung der Botschaft von Hoffnung, Liebe und Erlösung durch Jesus Christus. Wir glauben an den Aufbau einer starken Gemeinschaft von Gläubigen, die sich gegenseitig auf ihrer spirituellen Reise unterstützen und ermutigen.",
+      "description2": "Unsere Kirche heißt Menschen aus allen Lebensbereichen willkommen und schafft eine inklusive Umgebung, in der jeder Gottes Liebe und Gnade erfahren kann."
+    },
+    "values": {
+      "title": "Unsere Werte",
+      "faith": {
+        "title": "Glaube",
+        "description": "Wir glauben an die verwandelnde Kraft des Glaubens an Jesus Christus und Seine Lehren."
+      },
+      "community": {
+        "title": "Gemeinschaft",
+        "description": "Wir fördern eine unterstützende Gemeinschaft, in der Mitglieder gemeinsam in ihrer Glaubensreise wachsen können."
+      },
+      "service": {
+        "title": "Dienst",
+        "description": "Wir engagieren uns für den Dienst an unserer Gemeinschaft und die Verbreitung der Liebe Gottes durch Taten."
+      }
+    }
+  },
+  "contact": {
+    "title": "Kontakt",
+    "info": {
+      "address": {
+        "title": "Adresse",
+        "line1": "123 Kirchstraße",
+        "line2": "Brüssel, Belgien"
+      },
+      "phone": {
+        "title": "Telefon",
+        "number": "+32 123 456 789"
+      },
+      "email": {
+        "title": "Email",
+        "address": "info@cmcibelgique.com"
+      }
+    },
+    "form": {
+      "title": "Senden Sie uns eine Nachricht",
+      "name": "Name",
+      "email": "Email",
+      "subject": "Betreff",
+      "message": "Nachricht",
+      "submit": "Nachricht Senden",
+      "placeholders": {
+        "name": "Ihr Name",
+        "email": "Ihre Email",
+        "subject": "Betreff der Nachricht",
+        "message": "Ihre Nachricht"
+      }
+    }
+  },
+  "sermons": {
+    "title": "Unsere Predigten",
+    "walkingInFaith": {
+      "title": "Im Glauben wandeln",
+      "description": "Entdecken Sie, wie Sie Ihren Glauben und Ihr Vertrauen in Gottes Plan für Ihr Leben stärken können."
+    },
+    "powerOfPrayer": {
+      "title": "Die Kraft des Gebets",
+      "description": "Erfahren Sie die verwandelnde Kraft des Gebets in Ihrem täglichen Leben."
+    }
+  },
+  "footer": {
+    "description": "Verbreitung des Wortes Gottes und Aufbau einer Gemeinschaft treuer Gläubiger.",
+    "quickLinks": "Schnelllinks",
+    "connect": "Verbinden Sie sich mit Uns",
+    "rights": "Alle Rechte vorbehalten."
+  }
+}

@@ -10,6 +10,7 @@ import About from "./pages/About";
 import Contact from "./pages/Contact";
 import Sermons from "./pages/Sermons";
 import NotFound from "./pages/NotFound";
+import "./i18n/i18n";
 
 const queryClient = new QueryClient();
 

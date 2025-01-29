@@ -1,0 +1,105 @@
+{
+  "nav": {
+    "home": "Accueil",
+    "about": "À propos",
+    "sermons": "Sermons",
+    "contact": "Contact"
+  },
+  "home": {
+    "welcome": "Bienvenue à CMCI Belgique",
+    "subtitle": "Rejoignez-nous dans l'adoration et découvrez une communauté de foi, d'amour et d'espérance.",
+    "learnMore": "En savoir plus",
+    "services": {
+      "sunday": {
+        "title": "Service du Dimanche",
+        "description": "Rejoignez-nous chaque dimanche à 10h00 pour le culte et la communion fraternelle."
+      },
+      "bible": {
+        "title": "Étude Biblique",
+        "description": "Approfondissez votre compréhension de la parole de Dieu chaque mercredi à 19h00."
+      },
+      "community": {
+        "title": "Communauté",
+        "description": "Faites partie de notre communauté grandissante et participez à diverses activités."
+      }
+    },
+    "latestSermon": {
+      "title": "Dernier Sermon",
+      "subtitle": "Marcher dans la Foi",
+      "description": "Découvrez comment renforcer votre foi et votre confiance dans le plan de Dieu pour votre vie.",
+      "watchNow": "Regarder Maintenant"
+    }
+  },
+  "about": {
+    "title": "À Propos de Nous",
+    "mission": {
+      "title": "Notre Mission",
+      "description1": "CMCI Belgique se consacre à répandre le message d'espoir, d'amour et de salut à travers Jésus-Christ. Nous croyons en la construction d'une communauté forte de croyants qui se soutiennent et s'encouragent mutuellement dans leur cheminement spirituel.",
+      "description2": "Notre église accueille des personnes de tous horizons, créant un environnement inclusif où chacun peut faire l'expérience de l'amour et de la grâce de Dieu."
+    },
+    "values": {
+      "title": "Nos Valeurs",
+      "faith": {
+        "title": "Foi",
+        "description": "Nous croyons au pouvoir transformateur de la foi en Jésus-Christ et Ses enseignements."
+      },
+      "community": {
+        "title": "Communauté",
+        "description": "Nous encourageons une communauté solidaire où les membres grandissent ensemble dans leur cheminement de foi."
+      },
+      "service": {
+        "title": "Service",
+        "description": "Nous nous engageons à servir notre communauté et à répandre l'amour de Dieu par l'action."
+      }
+    }
+  },
+  "contact": {
+    "title": "Contactez-Nous",
+    "info": {
+      "address": {
+        "title": "Adresse",
+        "line1": "123 Rue de l'Église",
+        "line2": "Bruxelles, Belgique"
+      },
+      "phone": {
+        "title": "Téléphone",
+        "number": "+32 123 456 789"
+      },
+      "email": {
+        "title": "Email",
+        "address": "info@cmcibelgique.com"
+      }
+    },
+    "form": {
+      "title": "Envoyez-nous un Message",
+      "name": "Nom",
+      "email": "Email",
+      "subject": "Sujet",
+      "message": "Message",
+      "submit": "Envoyer le Message",
+      "placeholders": {
+        "name": "Votre nom",
+        "email": "Votre email",
+        "subject": "Sujet du message",
+        "message": "Votre message"
+      }
+    }
+  },
+  "sermons": {
+    "title": "Nos Sermons",
+    "walkingInFaith": {
+      "title": "Marcher dans la Foi",
+      "description": "Découvrez comment renforcer votre foi et votre confiance dans le plan de Dieu pour votre vie."
+    },
+    "powerOfPrayer": {
+      "title": "Le Pouvoir de la Prière",
+      "description": "Apprenez le pouvoir transformateur de la prière dans votre vie quotidienne."
+    }
+  },
+  "footer": {
+    "description": "Répandre la parole de Dieu et construire une communauté de croyants fidèles.",
+    "quickLinks": "Liens Rapides",
+    "connect": "Rejoignez-Nous",
+    "rights": "Tous droits réservés."
+  }
+}
