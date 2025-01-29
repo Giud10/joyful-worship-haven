@@ -29,7 +29,7 @@ const Navbar = () => {
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div className="flex justify-between items-center h-16">
           <Link to="/" className="flex items-center">
-            <span className="text-xl font-semibold text-primary">CMCI Belgique</span>
+            <span className={`text-xl font-semibold ${scrolled ? "text-primary" : "text-white"}`}>CMCI Belgique</span>
           </Link>
 
           {/* Desktop Navigation */}
@@ -39,7 +39,11 @@ const Navbar = () => {
                 key={link.path}
                 to={link.path}
                 className={`text-sm font-medium transition-colors hover:text-primary
-                  ${location.pathname === link.path ? "text-primary" : "text-gray-600"}`}
+                  ${location.pathname === link.path 
+                    ? "text-primary" 
+                    : scrolled 
+                      ? "text-gray-600" 
+                      : "text-white hover:text-white/80"}`}
               >
                 {link.name}
               </Link>
@@ -50,7 +54,7 @@ const Navbar = () => {
           <div className="md:hidden">
             <button
               onClick={() => setIsOpen(!isOpen)}
-              className="text-gray-600 hover:text-primary"
+              className={`hover:text-primary ${scrolled ? "text-gray-600" : "text-white"}`}
             >
               {isOpen ? <X size={24} /> : <Menu size={24} />}
             </button>
