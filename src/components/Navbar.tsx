@@ -31,8 +31,15 @@ const Navbar = () => {
     <nav className={`fixed w-full z-50 transition-all duration-300 ${scrolled ? "nav-scrolled" : "bg-transparent"}`}>
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div className="flex justify-between items-center h-16">
-          <Link to="/" className="flex items-center">
-            <span className={`text-xl font-semibold ${scrolled ? "text-primary" : "text-white"}`}>CMCI Belgique</span>
+          <Link to="/" className="flex items-center space-x-2">
+            <img 
+              src="/lovable-uploads/a831ad35-40dc-474f-9556-80368376073e.png" 
+              alt="Quotidien Logo" 
+              className="h-8 w-auto"
+            />
+            <span className={`text-xl font-semibold ${scrolled ? "text-primary" : "text-white"}`}>
+              CMCI Belgique
+            </span>
           </Link>
 
           {/* Desktop Navigation */}
