@@ -17,6 +17,10 @@ const languages = [
 const LanguageSwitcher = () => {
   const { i18n } = useTranslation();
 
+  const handleLanguageChange = (langCode: string) => {
+    i18n.changeLanguage(langCode);
+  };
+
   return (
     <DropdownMenu>
       <DropdownMenuTrigger className="flex items-center">
@@ -26,7 +30,7 @@ const LanguageSwitcher = () => {
         {languages.map((lang) => (
           <DropdownMenuItem
             key={lang.code}
-            onClick={() => i18n.changeLanguage(lang.code)}
+            onClick={() => handleLanguageChange(lang.code)}
             className="cursor-pointer"
           >
             {lang.label}
